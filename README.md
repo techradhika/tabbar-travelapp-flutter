@@ -1,4 +1,4 @@
-# tab_bar_project
+## Travel app project (with tab bar)
 
 A new Flutter application.
 
